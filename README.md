@@ -21,5 +21,5 @@ If you want to know about the technologies I've already worked with and projects
 ![ORACLE DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Conference Messaging App Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=nlw-heat-2021&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/nlw-heat-2021)
-[![Compliments Platform API Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=nlw-valoriza&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/nlw-valoriza)
+[![Conference Messaging App Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=conference-live-chat&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/conference-live-chat)
+[![Compliments Platform API Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=compliments-api&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/compliments-api)
