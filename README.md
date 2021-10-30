@@ -1,6 +1,6 @@
 ## Hey, I'm Marcelo Teixeira! 👋
 
-- 🔭 I’m currently studying Software Engineering at [CODE University of Applied Sciences](https://code.berlin/en/).
+- 🔭 I am a Software Engineering student at [CODE University of Applied Sciences](https://code.berlin/en/).
 - 🌱 I’m currently learning about React, Typescript and Next.js.
 - 👯 I’m looking to collaborate on initiatives that have a direct impact on society, especially in the topics of Education and Productivity.
 - 🤔 I’m looking for help with Design Strategy as a tool for Product Discory in small-sized teams.
