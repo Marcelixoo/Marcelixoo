@@ -3,7 +3,6 @@
 - 🔭 I am a Software Engineering student at [CODE University of Applied Sciences](https://code.berlin/en/).
 - 🌱 I’m currently learning about React, Typescript and Next.js.
 - 👯 I’m looking to collaborate on initiatives that have a direct impact on society, especially in the topics of urban planning and public transportation 🚎.
-- 🤔 I’m looking for help with Design Strategy as a tool for Product Discory in small-sized teams.
 - 💬 Ask me about Backend Development, Software Architecture & Design, Test Automation, Relational Databases, Team Work and Book Recommendations 📚.
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I once considered starting a brand to rent umbrellas called [Rain On Me](https://github.com/Marcelixoo/rain-on-me) ☔️.
