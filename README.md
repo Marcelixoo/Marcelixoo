@@ -1,9 +1,9 @@
 ## Hey, I'm Marcelo Teixeira! 👋
 
 - 🔭 I am a Software Engineering student at [CODE University of Applied Sciences](https://code.berlin/en/).
-- 🌱 I’m currently learning about React, Typescript and Next.js.
-- 👯 I’m looking to collaborate on initiatives that have a direct impact on society, especially in the topics of urban planning and public transportation 🚎.
-- 💬 Ask me about Backend Development, Software Architecture & Design, Test Automation, Relational Databases, Team Work and Book Recommendations 📚.
+- 🌱 I’m currently working with Typescript and Next.js.
+- 🧐 My main interest in engineering comes from the process of developing ideas through software and collaborating with people in solving real-world problems.
+- 💬 You can ask me about Backend Development, Software Architecture & Design, Test Automation, DevOps, Collaboration and Book Recommendations 📚.
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I once considered starting a brand to rent umbrellas called [Rain On Me](https://github.com/Marcelixoo/rain-on-me) ☔️.
 
@@ -19,6 +19,7 @@ If you want to know about the technologies I've already worked with and projects
 ![GITLAB CI](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ORACLE DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![KUBERNETES](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 [![Conference Messaging App Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=conference-live-chat&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/conference-live-chat)
 [![Compliments Platform API Repository](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Marcelixoo&repo=compliments-api&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Marcelixoo/compliments-api)
