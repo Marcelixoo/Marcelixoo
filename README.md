@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I once considered starting a brand to rent umbrellas called [Rain On Me](https://github.com/Marcelixoo/rain-on-me) ☔️.
 
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.teixeira@web.de)
-[![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumarcelo-teixeira/)
+[![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memarcelot/)
 
 If you want to know about the technologies I've already worked with and projects I've been working on, please check the list below.
 
