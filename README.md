@@ -21,7 +21,7 @@ If you're curious about the technologies I've already worked with, please check 
 ![MobX](https://img.shields.io/badge/MobX-e86517?style=for-the-badge&logo=mobx&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![KUBERNETES](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)
+![KUBERNETES](https://img.shields.io/badge/Kubernetes-2e6ce6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
